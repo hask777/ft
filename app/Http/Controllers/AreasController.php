@@ -131,7 +131,7 @@ class AreasController extends Controller
             }
         }
 
-        dump($group_A);
+        // dump($group_A);
         // dump($group_B);
         // dump($group_C);
         // dump($group_D);
